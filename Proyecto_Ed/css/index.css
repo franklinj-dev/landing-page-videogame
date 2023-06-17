@@ -1,10 +1,11 @@
 @import './navbar.css';
-@import 'wrapper.css';
+@import './wrapper.css';
+@import './description.css';
 
 :root {
     --black: #202020;
     --white: #FFFF;
-
+    --blue: #281e5d;
 
 }
  
