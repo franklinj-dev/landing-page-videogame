@@ -1,0 +1,10 @@
+.main-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-description{
+    display: flex;
+    margin-top: 50px;
+}
+
